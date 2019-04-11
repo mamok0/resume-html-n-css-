@@ -1,0 +1,106 @@
+@charset "utf-8";
+
+
+
+table, tr, td{
+    max-width: 100%;
+    border-collapse: collapse;
+}
+
+.heading{
+    font-size: 18px;
+}
+
+.menu{
+    background-color: #000099; 
+}
+
+a:link{
+    color: #FFFFFF;
+}
+
+a:visited{
+    color: #FFFFFF;
+}
+
+.name-heading{
+    padding-top: 20px;
+}
+
+.resume{
+    vertical-align: 0%;
+    padding-top: 2%;
+    padding-left: 0%;
+}
+
+.resume-info{
+    padding-left: 15px;
+}
+
+li, ul{
+    padding: 10px;
+    list-style-type: none; 
+    white-space: nowrap;
+}
+
+.questions{
+    text-align: right;
+}
+
+.copyright-line{
+    vertical-align: bottom;
+    text-align: right;
+    max-height: 100%;
+}
+
+.pic{
+    border: 3px solid #000000;
+    margin-top: 60px;
+}
+
+p{
+    font-size: 30px;
+}
+
+.card{
+    border: 3px solid #000000;
+    text-align: center;
+    margin: 30px auto 0 auto;
+    width: 700px;
+    background: #000000;
+    color: #FFFFFF;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.myName{
+    background: #FFFFFF;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+#name{
+    padding: 10px;
+}
+
+p{
+    text-align: left;
+    font-size: 20px;
+}
+
+#contact{
+    margin: 50px 0 20px 10px;
+}
+
+#pics{
+    margin: 0 auto;
+}
+
+h2{
+    padding: -40px;
+}
+
+.mail{
+    font-size: 25px;
+}
